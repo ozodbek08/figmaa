@@ -1,0 +1,766 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: Epilogue, serif !important;
+}
+.navbar{
+    background: #010032;
+}
+ul{
+    margin: 0 auto !important;
+}
+Li{
+    border-bottom: 2px solid #010032;
+}
+li:hover{
+    border-bottom: 2px solid white;
+}
+.w{
+    width: 100px;
+}
+.w1{
+    margin-right: 40px;
+    width: 100px;
+}
+.s1{
+    margin-top: 0;
+    width: 100%;
+    height: 660px;
+    background: #010032;
+    position: relative;
+}
+.text{
+    font-family: Epilogue, serif !important;
+}
+.text1{
+    font-family: Epilogue, serif !important;
+}
+.btn-a{
+    border-radius: 20px !important;
+    position: absolute;
+    top: 400px;
+    left: 100px;
+}
+.btn-a:hover{
+    border: 2px solid #3333be;
+}
+.text2{
+    width: 30%;
+    position: absolute;
+    top: 500px;
+    left: 100px;
+}
+.img{
+    width: 50%;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.s2{
+    background: #E5E5E5;
+    width: 100%;
+    height: 3400px;
+    position: relative;
+}
+.a{
+    width: 20% !important;
+}
+.a1{
+    padding: 100px;
+    display: flex;
+    flex-direction: row;
+}
+.rec{
+    width: 33.3%;
+    height: 300px;
+}
+.b{
+    width: 12%;
+    position: absolute;
+    top: 250px;
+    left: 500px;
+}
+.b1{
+    width: 12%;
+    position: absolute;
+    top: 250px;
+    left: 700px;
+}
+.b2{
+    width: 12%;
+    position: absolute;
+    top: 250px;
+    left: 900px;
+}
+.logo{
+    width: 130px;
+}
+.d{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    position: absolute;
+    top: 350px;
+    left: 480px;
+}
+.div1{
+    position: absolute;
+    top: 100px!important;
+    left: 0;
+    right: 0;
+    position: relative;
+}
+.div2{
+    position: absolute;
+    top: 350px;
+    left: 100px;
+    right: 0;
+    position: relative;
+    /*padding: 30px !important;*/
+}
+.w-75{
+    position: absolute;
+    left: 100px;
+}
+.a2{
+    font-size: 50px;
+    position: absolute;
+    top: 80px;
+    left: 100px;
+}
+.col-8{
+    position: relative;
+}
+.text4{
+    width: 30%;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+/*.b1{*/
+/*    !*height: 100px !important;*!*/
+/*}*/
+.r{
+    margin-top: 50px!important;
+}
+.k{
+    width: 40%;
+}
+.k1{
+    width: 40%;
+    position: absolute;
+    right: 200px;
+}
+.k2{
+    width: 40%;
+    position: absolute;
+    right: 350px;
+    top: 600px;
+}
+.k3{
+    width: 40%;
+    position: absolute;
+    top: 1050px;
+    left: 0;
+}
+.k4{
+    width: 40%;
+    position: absolute;
+    top: 1050px;
+    right:  200px;
+}
+.btn-b{
+    background: #4543E8;
+    color: white;
+    width: 140px;
+    height: 140px;
+    text-align: center;
+    font-family: 'Epilogue', serif;
+    border-radius: 0px !important;
+    padding: 30px;
+    position: absolute;
+    top: 1875px;
+    right: 500px;
+}
+.btn-d{
+    background: #FFFFFF;
+    width: 220px;
+    height: 55px;
+    text-align: center;
+    font-family: 'Epilogue', serif;
+    border-radius: 20px !important;
+    padding: 10px;
+    position: absolute;
+    top: 25px;
+}
+.s3div2{
+    width: 25% !important;
+}
+.s3div3{
+    width: 25% !important;
+}
+.s3div4{
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%
+}
+.s3div5{
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%
+}
+.s3div6{
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%
+}
+.s3{
+    width: 100%;
+    height: 700px;
+    background: #010032;
+    position: relative;
+    padding: 30px;
+}
+
+.h{
+    width: 15% !important;
+    position: absolute;
+    top: 120px;
+    right: 50px !important;
+}
+.asd{
+    width: 90%;
+    margin-top: 100px;
+}
+.s4{
+    width: 100%;
+    height: 960px;
+    background: #D8D8EB;
+}
+.p{
+    width: 30%;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+.p1{
+    width: 30%;
+    margin-top: 30px;
+    margin-left: 400px;
+}
+.carusellogo{
+    margin-top: 300px;
+    position: relative;
+}
+.carousel-inner{
+    margin-left: 100px !important;
+}
+.caru{
+    width: 40%;
+    margin-left: 0;
+}
+.caru1{
+    width: 40%;
+    margin-right: 0;
+}
+.icon{
+    margin-top: 50px;
+}
+.carousel-inner{
+    margin-top: 200px;
+}
+.carousel-indicators{
+    margin-top: 200px;
+}
+.icon1{
+    width: 5%;
+    height: 5%;
+    margin-left: 150px;
+}
+.icon2{
+    width: 5%;
+    height: 5%;
+    margin-left: 120px;
+}
+.ung{
+    position: absolute;
+    top: 450px;
+    left: 450px;
+}
+.chap{
+    position: absolute;
+    top: 450px;
+    right: 460px;
+}
+.s5{
+    background: #E5E5E5 !important;
+}
+.h9{
+    font-family: Space Grotesk, serif;
+    font-size: 60px;
+}
+.j{
+    width: 100% !important;
+    height: 100% !important;
+}
+.row1{
+    margin-top: 80px;
+}
+.row2{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.row3{
+    margin-left: 100px;
+}
+.s7{
+    background: #E5E5E5 !important;
+}
+.w25{
+    width: 15%;
+}
+.btn-c{
+    width: 100%;
+}
+.g{
+    font-family: Space Grotesk, serif;
+    font-size: 56px !important;
+}
+.s8{
+    background: #E5E5E5 !important;
+}
+.l{
+    width: 15%;
+    color: white !important;
+}
+.btn-l{
+    background-color: #4543E8 !important;
+}
+.z{
+    width: 100%;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.f{
+    width: 50%;
+    z-index: -1;
+}
+.i{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    /*color: white;*/
+}
+.x{
+    position: absolute;
+    top: 100px;
+    left:  130px;
+    text-align: center;
+}
+.x1{
+    position: absolute;
+    top: 100px;
+    right:   100px;
+    text-align: center;
+}
+.c{
+    font-size: 24px !important;
+}
+.c1{
+    font-size: 14px !important;
+}
+.btn-g{
+    background-color: transparent;
+    color: white;
+    border-bottom: 1px solid white;
+}
+/*.btn-g:hover{*/
+/*    color: black !important;*/
+/*}*/
+.s10{
+    width: 100%;
+    height: 700px;
+    background-color:  #010032;
+}
+.img10{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.text1{
+    font-family: 'Epilogue', serif;
+
+    /*font-size: 30px !important;*/
+
+}
+.m{
+    font-size: 40px;
+    color: #ffffff;
+}
+.u{
+    margin-top: -500px;
+    margin-left: 90px;
+}
+.m1{
+    border-bottom: 1px rgba(255, 255, 255, 0.2) solid;
+    height: 35px;
+}
+.v{
+    font-size: 10px;
+}
+.input{
+    border-radius: 50px !important;
+    border: 1px rgba(255, 255, 255, 0.2) solid;
+    background-color: transparent;
+}
+.row11{
+    position: relative;
+    margin-top: 250px;
+}
+.btn-s{
+    background: #4543E8;
+    color: #4543E8;
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    position: absolute;
+    top: 20px;
+    left: 900px;
+}
+.hr{
+    margin: 0 auto;
+    background-color:  rgba(255, 255, 255, 0.2);
+    margin-top: 150px !important;
+    width: 80%;
+}
+.t2{
+    position: relative;
+}
+.img10{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.text1{
+    font-family: 'Epilogue', serif;
+
+    /*font-size: 30px !important;*/
+
+}
+.m{
+    font-size: 40px;
+    color: #ffffff;
+}
+.u{
+    margin-top: -500px;
+    margin-left: 200px;
+}
+.m1{
+    border-bottom: 1px rgba(255, 255, 255, 0.2) solid;
+    height: 35px;
+}
+.v{
+    font-size: 10px;
+}
+.input{
+    border-radius: 50px !important;
+    border: 1px rgba(255, 255, 255, 0.2) solid;
+    background-color: transparent;
+}
+.row11{
+    position: relative;
+    margin-top: 250px;
+}
+.btn-s{
+    background: #4543E8;
+    color: #4543E8;
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    position: absolute;
+    top: 20px;
+    left: 900px;
+}
+.hr{
+    margin: 0 auto;
+    background-color:  rgba(255, 255, 255, 0.2);
+    margin-top: 150px !important;
+    width: 80%;
+}
+.t2{
+    position: relative;
+}
+.s10{
+    width: 100%;
+    height: 700px;
+    background-color:  #010032;
+
+}
+.f{
+    width: 50%;
+    z-index: -1;
+
+}
+.i{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    color: white;
+
+}
+.x{
+    position: absolute;
+    top: 100px;
+    left:  130px;
+    text-align: center;
+}
+.x1{
+    position: absolute;
+    top: 100px;
+    right:   100px;
+    text-align: center;
+}
+.c{
+    font-size: 24px !important;
+}
+.c1{
+    font-size: 14px !important;
+}
+.btn-g{
+    background-color: transparent;
+    color: white;
+    border-bottom: 1px solid white;
+}
+.btn-g:hover{
+    color: white !important;
+}
+.row9{
+    margin-top: 80px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+@media (max-width: 566px)and (min-width: 100px) {
+    h1 {
+        font-size: 20px !important;
+    }
+
+    .s1 {
+        height: 500px;
+    }
+
+    .text {
+        font-size: 20px !important;
+    }
+
+    .text1 {
+        font-size: 10px !important;
+    }
+
+    .btn-a {
+        width: 30%;
+        height: 40px;
+        margin-top: -20px;
+        margin-left: 15px;
+        position: absolute;
+        top: 350px;
+        left: 25px;
+    }
+
+    .text2 {
+        width: 50%;
+        position: absolute;
+        top: 400px;
+        left: 40px;
+    }
+
+    .img {
+        width: 50%;
+    }
+
+    .r {
+        position: absolute;
+        top: 0px;
+        left: 25px;
+    }
+
+    /*h6{*/
+    /*    font-size: 10px;*/
+    /*}*/
+    .a1 {
+        display: flex;
+        flex-direction: column !important;
+    }
+
+    .rec {
+        width: 100% !important;
+        margin-top: 80px !important;
+        margin: 0 auto;
+        position: relative;
+    }
+
+    .a {
+        width: 100% !important;
+        margin-left: -80px;
+    }
+
+    .recdiv {
+        position: absolute;
+        top: 100px;
+        left: 25px;
+    }
+
+    .ll {
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto !important;
+        position: relative;
+    }
+
+    .div1 {
+        margin-top: 100px;
+    }
+
+    .a2 {
+        margin-top: -50px;
+    }
+
+    .div2 {
+        margin-left: -75px;
+    }
+
+    .j1 {
+        margin-left: -8px;
+    }
+
+    .div-a {
+        margin-left: 130px !important;
+    }
+
+    .recdiv {
+        margin-left: -400px;
+    }
+
+    .logo1 {
+        position: absolute;
+        top: 100px;
+        left: -65px;
+    }
+
+    .logo2 {
+        position: absolute;
+        top: 100px;
+        right: -300px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .btn-s {
+        margin-left: -300px;
+    }
+    .llimg {
+        width: 50%;
+        height: 50%;
+    }
+
+    h4 {
+        font-size: 12px !important;
+    }
+
+    .h6 {
+        font-size: 14px !important;
+    }
+
+    .icon1 {
+        width: 5%;
+        height: 5%;
+        margin-left: 50px;
+    }
+
+    .icon2 {
+        width: 5%;
+        height: 5%;
+        margin-left: 20px;
+    }
+    .btn-b{
+        background: #4543E8;
+        color: white;
+        width: 140px;
+        height: 140px;
+        text-align: center;
+        font-family: 'Epilogue', serif;
+        border-radius: 0 !important;
+        padding: 30px;
+        position: absolute;
+        top: 1875px;
+        right: 350px;
+    }
+    body{
+        background-color: #4e555b;
+    }
+    .s2{
+        height: 3200px;
+    }
+    .s3{
+        padding: 0 !important;
+        padding-top: 10px;
+        height: 900px;
+    }
+    .s3Card{
+        position: relative;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .s3div1{
+        width: 100% !important;
+        position: absolute;
+        top: 20px !important;
+        left: 10px !important;
+    }
+    .s3div2{
+        width: 35%;
+        position: absolute;
+        top: 70px !important;
+        left: 50px !important;
+    }
+    .s3div3{
+        width: 35% !important;
+        position: absolute;
+        top: 70px !important;
+        right: 10px !important;
+    }
+    .s3div4{
+        width: 35% !important;
+        position: absolute;
+        top: 0;
+        left: 10px;
+    }
+    .s3div5{
+        width: 35% !important;
+        position: absolute;
+        top: 0;
+        right: 50px;
+    }
+    .s3div6{
+        position: absolute;
+        top: 300px !important;
+        left: 100px !important;
+    }
+    .pushing{
+        width: 100% !important;
+    }
+    .services{
+        margin-top: 20px;
+    }
+    .row9{
+        position: relative !important;
+        position: absolute;
+        top: 300px !important;
+    }
+    .h{
+        display: none;
+    }
+    .s4{
+        position: relative;
+    }
+    .p{
+        position: absolute;
+        top: 40px;
+        left: 100px;
+    }
+}
